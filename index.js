@@ -30,7 +30,7 @@ const reverseZigZagString = (str) => {
   return water;
 };
 
-console.log(reverseZigZagString("bottle" "));
+console.log(reverseZigZagString("bottle"));
 
 console.log(reverseZigZagString("Code Challenge "));
 
